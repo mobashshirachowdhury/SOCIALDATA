@@ -6,7 +6,9 @@
   </head>
   <body>
 
-![cover pic](stealing-a-car.jpg)
+<div class="body-image">
+            <img src="{{ site.baseurl }}/stealing-a-car.jpg" alt="cover pic">
+        </div>
 
  <p>San Francisco city has been always high in happening crime rates; among them vehicle thefts is one of the most common crimes reported to the police. For this assignment I choose to dig up with Vehicle theft category.</p>
      <br>
