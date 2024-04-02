@@ -30,8 +30,9 @@ On the other hand, the district with the lowest number of vehicle thefts is the 
 <br>
     
 <h2>The Polar Bar</h2>
-    
-![polarbar](https://user-images.githubusercontent.com/123973370/228193717-10be937b-e4b9-4760-a85d-4db652d01da3.png)
+<div class="body-image">
+            <img src="{{ site.baseurl }}/polarbar.png" alt="polar bar pic">
+        </div>
 
   <p>The polar bar shows the relationship between the hour of the day and the frequency of vehicle theft incidents in San Francisco between 2003 and 2018.  The frequency of vehicle theft is higher during the evening period, between 6PM to 12PM and decreasing in the early morning hours.</p>
     <br>
