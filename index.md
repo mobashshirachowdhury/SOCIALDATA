@@ -6,7 +6,7 @@
   </head>
   <body>
 
-![stealing-a-car](https://user-images.githubusercontent.com/123973370/228193445-3815da74-990b-4fdf-950c-296c42b0313c.jpg)
+![cover pic](stealing-a-car.jpg)
 
  <p>San Francisco city has been always high in happening crime rates; among them vehicle thefts is one of the most common crimes reported to the police. For this assignment I choose to dig up with Vehicle theft category.</p>
      <br>
