@@ -1,6 +1,7 @@
-# socialdataanalysisandvisualization
+socialdataanalysisandvisualization
 <html lang="EN">
   <head>
+  <h1 style="font-family:garamond; font: size 12px;">Social Data Analysis and Visualization - Assignment 2</h1>
   <h1 style="color:grey; font-family:Helvetica; font-style:italic; font-size:12px">April 03, 2024</h1>
   <h1 style="font-family:garamond; font: size 12px;">Vehicle Theft in San Francisco</h1>
   </head>
