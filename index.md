@@ -39,6 +39,7 @@ On the other hand, the district with the lowest number of vehicle thefts is the 
 
 <h2>The Interactive plot</h2>
     
+<iframe src="{{ site.baseurl }}/interactive_plot.html" style="width: 100%; height: 600px; display: block; margin-left: auto; margin-right: auto;"></iframe>
 ![bokeh_plot](https://user-images.githubusercontent.com/123973370/228150911-844c02db-9233-4989-9923-29beefaa0d26.png)
     
  <p>The Interactive plot above shows the continuity in vehicle thefts in different districts of San Francisco over 15years. The data used in this graph is obtained from the San Francisco Police Department's Incident Reports from 2003 to 2018. This plot is based on the number of vehicle thefts reported in each district of San Francisco over the years between 2003 to 2017.
