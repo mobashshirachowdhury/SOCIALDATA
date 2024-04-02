@@ -1,4 +1,3 @@
-socialdataanalysisandvisualization
 <html lang="EN">
   <head>
   <h1 style="font-family:garamond; font: size 12px;">Social Data Analysis and Visualization - Assignment 2</h1>
