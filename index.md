@@ -41,3 +41,6 @@ On the other hand, the district with the lowest number of vehicle thefts is the 
 In 2006, there was a noticeable amount of decrease in the numbers of vehicle thefts across the districts, possibly because of the implementation of police force by the city of San Francisco to prevent vehicle theft. But there was a increase in vehicle thefts in 2015. The overall report in vehicle theft varies across the different districts in San Francisco. The districts of southern, Richmond and central show a similar pattern, around 1500 incidents in 2003 and 2004. And from 2006 to 2015 there are noticeable drop of events. Taraval, Bayview, Northern, Mission also shows similar pattern. INGLESIDE has the highest number of cases and TENDERLOIN consistently has the lowest number of cases.
 <br>
    </p>
+
+<h2>Contribution</h2>
+This report is a joint endeavor in which all members of our group made equal contributions in every exercise. At first Each team member was assigned to generate one plot. Then it was evaluated by other members which ensures that everyone participated actively and impartially in every stage of the assignment, ranging from the initial concept to the creation of visualizations and composition of the final report.
