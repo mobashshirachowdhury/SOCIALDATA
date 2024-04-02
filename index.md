@@ -16,7 +16,9 @@
   
    <h2> The choropleth map</h2>
     
- ![mapplot](https://user-images.githubusercontent.com/123973370/228193567-7ebedd04-9de7-449f-bebc-643031b5c050.png)
+ <div class="body-image">
+            <img src="{{ site.baseurl }}/mapplot.png" alt="map plot pic">
+        </div>
 
   <p>For better understand of the distribution of vehicle thefts across San Francisco, I looked at the number of thefts in each of the city's districts. I made a choropleth map which shows the number of vehicle thefts in each district from 2003 to 2018.
 <br>
